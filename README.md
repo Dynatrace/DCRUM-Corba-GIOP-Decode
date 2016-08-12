@@ -12,7 +12,7 @@ The script enables you to monitor the method invocation timings without instrume
 
 ## Where can I find the newest version of the Corba GIOP script?
 
-See the [Universal Decode Implementations](https://community.dynatrace.com/community/display/PUBDCRUM/Universal+Decode+Implementations#UniversalDecodeImplementations-CORBA)
+See the [Universal Decode Implementations](https://community.dynatrace.com/community/display/PUBDCRUM/Bespoke+application+monitoring+with+the+Universal+Decode#BespokeapplicationmonitoringwiththeUniversalDecode-CORBA)
 page.
 
 ## How can I run the script from sources?
