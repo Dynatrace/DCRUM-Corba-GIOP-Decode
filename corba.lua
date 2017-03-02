@@ -23,8 +23,8 @@ Supported GIOP versions: 1.1, 1.2
 require 'amd'
 
 
-local little_endian_factors = {1, 256, 65536, 4294967296}
-local big_endian_factors = {4294967296, 65536, 256, 1}
+local little_endian_factors = {1, 256, 65536, 16777216}
+local big_endian_factors = {16777216, 65536, 256, 1}
 local GIOP = 'GIOP'
 
 local REQUEST_MESSAGE_TYPE = 0x0
